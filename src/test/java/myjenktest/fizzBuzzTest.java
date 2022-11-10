@@ -6,6 +6,7 @@ import org.junit.jupiter.api.*;
 import myjenktest.tutorial.FizzBuzz;
 
 public class fizzBuzzTest {
+	
 	public FizzBuzz fb;
 	
 	@BeforeEach

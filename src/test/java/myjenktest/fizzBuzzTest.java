@@ -17,7 +17,7 @@ public class fizzBuzzTest {
 	@Test
 	public void testNumber() {
 		String risultato=fb.play(1);
-		Assertions.assertEquals(risultato, "ciao");
+		Assertions.assertEquals(risultato, "1");
 	}
 	
 		
